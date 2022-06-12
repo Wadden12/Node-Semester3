@@ -1,0 +1,13 @@
+Learn Node in one hour! 
+  By learning the 11 core global objects. 
+  1.Http: allows Node.js to transfer data over the hyper text protocol. The http module can create 
+  2.Events: Every action on a computer is an event. Like when a connection is made or a file is opened. 
+  3.Filesystems: Allows you to work with file systems on your computer. You can Read file or write to files useing this core object. 
+  4.Console: is class with methods such as console.log(), console.error() and console.warn(). 
+  5.Buffer: modules provides a way of handling streams of binary data. 
+  6.Globals: console.log(), setTimeout(), clearTimeout(), setInterval(), clearInterval. are examples of gobal objects they could be written like global.setTimeout but that is not required so just setTimeout will be fine. 
+  7.Stream: are one of the fundamental concepts that power Node.js applications.  
+  8.Url: Module splits up a web address into readable parts. As example you can use the url.parse() method and it will return a url object with each part of the address as properties. 
+  9.Path: Module provides utilities for working with file and directory paths. 
+  10.Os: Module provides functions that can be used to retrieve information from the underlying operations 
+  11.Process: object provides information about and control over the current node.js process. 
